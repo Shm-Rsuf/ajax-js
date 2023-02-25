@@ -1,4 +1,4 @@
-const wrapper = document.querySelector('.wrapper')
+/* const wrapper = document.querySelector('.wrapper')
 
 fetch('https://fakestoreapi.com/products')
   .then((res) => {
@@ -18,4 +18,4 @@ function renderData(products) {
     `;
     wrapper.insertAdjacentHTML('beforebegin', html)
   });
-}
+} */
